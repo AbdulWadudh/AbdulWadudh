@@ -11,7 +11,7 @@
 
 - 💬 Ask me about  **React, JavaScript, CSS, HTML, Bootstrap, MongoDB, PostgreSQL **
 
-- 📫 How to reach me **abdul.wadudh@codosphere.com**
+- 📫 How to reach me **abdulwadudh5@gmail.com**
 
 - ⚡ Fun fact **I Think I THINK a Lot & Talk a Lot & ...**
 
