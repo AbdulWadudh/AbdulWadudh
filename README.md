@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [AbdulWadudh](AbdulWadudh)
 
-- 💬 Ask me about  **React, JavaScript, CSS, HTML, Bootstrap, MongoDB, PostgreSQL **
+- 💬 Ask me about  **React, JavaScript, CSS, HTML, Bootstrap, MongoDB, PostgreSQL**
 
 - 📫 How to reach me **abdulwadudh5@gmail.com**
 
