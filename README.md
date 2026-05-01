@@ -135,7 +135,7 @@ I'm a Full-Stack Engineer who lives at the intersection of **scalable web apps**
 
 <div align="center">
 
-  <a href="https://linkedin.com/in/abdul-wauddh-samdani-654541248"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/mohammed-abdul-wadudh-samdani"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/abdulwadudh5"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://stackoverflow.com/users/19755185"><img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>
   <a href="https://dev.to/abdulwadudh5"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
